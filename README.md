@@ -1,2 +1,2 @@
 # Machine-Learning
-Assignments
+Predicting the closing price of a specific stock based on historical data
